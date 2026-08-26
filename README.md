@@ -48,12 +48,6 @@ I've built 5+ AI-powered solutions, agents, chatbots, and business automations, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Laminevv&show_icons=true&theme=radical" />
-</p>
----
 
 ### 🌐 Connect with Me
 
