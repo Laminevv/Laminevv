@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed (Lamine)</h1>
-<h3 align="center">Frontend-Focused Web Developer | Automation & AI Chatbot Builder from Djelfa, Algeria 🇩🇿</h3>
-
----
+<h3 align="center">Frontend Developer | React | Automation & AI Solutions | n8n 🇩🇿</h3>---
 
 ### 🚀 About Me
 
-- 🌐 Frontend-focused **Web Developer** — solid in **React** and **HTML/CSS/JS**, with working knowledge of **PHP**
-- 🤖 I build **chatbots, AI agents, and task automations** — 5+ different types built so far (WhatsApp/Messenger bots, voice bots, lead-finder agents, workflow automations, and more) using **n8n**
-- 🧠 I use AI tools (Claude, ChatGPT, n8n AI agents) as assistants to move faster — not as a full replacement for understanding the code
+- 🌐 Frontend-focused Web Developer — building with React, JavaScript, HTML, and CSS, with working knowledge of PHP
+-  🤖 I build **chatbots, AI agents, and task automations** — 5+ different types built so far (WhatsApp/Messenger bots, voice bots, lead-finder agents, workflow automations, and more) using **n8n**
 - 📚 Currently learning **Next.js**, **Node.js**, and **TypeScript**
 - 🔐 Beginner in **Cybersecurity / Web Penetration Testing** — learning step by step
-- 🎓 Background in Sociology — I bring a people-first lens to product & automation design
 
 ---
 
@@ -25,11 +21,9 @@
 **Backend & Database**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Automation**
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Deepgram](https://img.shields.io/badge/-Deepgram-13EF93?style=for-the-badge&logoColor=black)
 
 **Currently Learning**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -45,33 +39,25 @@
 
 ### 🤖 Automation & AI Work
 
-I've built more than 5 different types of chatbots, agents, and automations, including:
+I've built 5+ AI-powered solutions, agents, chatbots, and business automations, including:
+- AI agents for lead generation and outreach research
 - WhatsApp & Messenger AI chatbots
-- Voice-based bots (speech transcription + automated replies)
-- AI lead-finder agents for outreach research
-- Business workflow automations (n8n)
+- Voice-based AI bots (speech transcription + automated replies)
+- Business workflow automations with n8n
 - Landing page + order automation pipelines (forms → sheets → notifications)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Laminevv&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laminevv&layout=compact&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laminevv&theme=radical" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://wa.me/213793190475" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lamine-vv/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/lamine.vv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.fiverr.com/sellers/chibout_mohamed/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
