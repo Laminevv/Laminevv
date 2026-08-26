@@ -4,10 +4,9 @@
 ### 🚀 About Me
 
 - 🌐 Frontend-focused Web Developer — building with React, JavaScript, HTML, and CSS, with working knowledge of PHP
--  🤖 I build **chatbots, AI agents, and task automations** — 5+ different types built so far (WhatsApp/Messenger bots, voice bots, lead-finder agents, workflow automations, and more) using **n8n**
+- 🤖 I build **chatbots, AI agents, and task automations** — 5+ different types built so far (WhatsApp/Messenger bots, voice bots, lead-finder agents, workflow automations, and more) using **n8n**
 - 📚 Currently learning **Next.js**, **Node.js**, and **TypeScript**
-- 🔐 Beginner in **Cybersecurity / Web Penetration Testing** — learning step by step
-
+- 🔐 Learning Web Security & Penetration Testing — with a focus on securing the web applications I build
 ---
 
 ### 🛠️ Tech Stack
